@@ -8,4 +8,3 @@ class Solution:
                 sum = 0
             maxSub = max(maxSub, sum)
         return maxSub
-            
